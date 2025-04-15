@@ -1,0 +1,4 @@
+feedparser
+requests
+flask
+deepl==1.20.0
